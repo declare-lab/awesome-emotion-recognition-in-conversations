@@ -16,6 +16,8 @@ Please feel free to send a PR in case any new or existing paper is missing from 
 
 ## ERC
 
+- [BiERU: Bidirectional Emotional Recurrent Unit for Conversational Sentiment Analysis](https://arxiv.org/pdf/2006.00492.pdf), Arxiv 2020
+- [Multi-Task Learning with Auxiliary Speaker Identification for Conversational Emotion Recognition](https://arxiv.org/pdf/2003.01478.pdf), Arxiv 2020
 - [Analysis of Utterance Combinations for Emotion Recognition in Conversation](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3F5ES201/_pdf), Unpublished
 - [Interactive double states emotion cell model for textual dialogue emotion prediction](https://www.sciencedirect.com/science/article/abs/pii/S0950705119304654), KBS 2020
 - [Contextualized Emotion Recognition in Conversation as Sequence Tagging](https://www.sigdial.org/files/workshops/conference21/pdf/2020.sigdial-1.23.pdf), SIGDIAL 2020
