@@ -16,6 +16,7 @@ Please feel free to send a PR in case any new or existing paper is missing from 
 
 ## ERC
 
+- [Analysis of Utterance Combinations for Emotion Recognition in Conversation](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3F5ES201/_pdf), Unpublished
 - [Interactive double states emotion cell model for textual dialogue emotion prediction](https://www.sciencedirect.com/science/article/abs/pii/S0950705119304654), KBS 2020
 - [Contextualized Emotion Recognition in Conversation as Sequence Tagging](https://www.sigdial.org/files/workshops/conference21/pdf/2020.sigdial-1.23.pdf), SIGDIAL 2020
 - [Multilogue-Net: A Context Aware RNN for Multi-modal Emotion Detection and Sentiment Analysis in Conversation](https://www.aclweb.org/anthology/2020.challengehml-1.3.pdf), HML Workshop, ACL 2020
