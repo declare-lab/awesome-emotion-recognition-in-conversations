@@ -9,10 +9,10 @@ Please feel free to send a PR in case any new or existing paper is missing from 
 
 ## Data Resources
 
+- [K-EmoCon, a multimodal sensor dataset for continuous emotion recognition in naturalistic conversations](https://arxiv.org/pdf/2005.04120.pdf), Arxiv 2020
 - [Emotional Dialogue Acts](https://www.aclweb.org/anthology/2020.lrec-1.78.pdf), LREC 2020
 - [MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations](https://www.aclweb.org/anthology/P19-1050.pdf), ACL 2019
 - [Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper)](https://www.aclweb.org/anthology/P19-1455.pdf), ACL 2019
-
 
 ## ERC
 
