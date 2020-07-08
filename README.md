@@ -38,7 +38,7 @@ Please feel free to send a PR in case any new or existing paper is missing from 
 - [Interactive double states emotion cell model for textual dialogue emotion prediction](https://www.sciencedirect.com/science/article/abs/pii/S0950705119304654), KBS 2020
 - [Intent Classification for Dialogue Utterances](https://ieeexplore.ieee.org/iel7/9670/5196652/08910417.pdf?casa_token=Cj6j5g5WtH8AAAAA:88fVKkpvXiFgohhiyqJd1S6cdg08RmRFzWI6SlUaNcTbj0zaLcVNGTx01gTHTsls7hxw8_cWvlXvXQ), IEEE Intelligent Systems
 - [Contextualized Emotion Recognition in Conversation as Sequence Tagging](https://www.sigdial.org/files/workshops/conference21/pdf/2020.sigdial-1.23.pdf), SIGDIAL 2020
-- [Non-acted multi-view audio-visual dyadic interactions. Project non-verbal emotion recognition in dyadic scenarios and speaker segmentation] (http://diposit.ub.edu/dspace/bitstream/2445/159557/2/159557.pdf), Masters/Doctoral Thesis 2020
+- [Non-acted multi-view audio-visual dyadic interactions. Project non-verbal emotion recognition in dyadic scenarios and speaker segmentation](http://diposit.ub.edu/dspace/bitstream/2445/159557/2/159557.pdf), Masters/Doctoral Thesis 2020
 - [Multilogue-Net: A Context Aware RNN for Multi-modal Emotion Detection and Sentiment Analysis in Conversation](https://www.aclweb.org/anthology/2020.challengehml-1.3.pdf), HML Workshop, ACL 2020
 - [Conversational Transfer Learning for Emotion Recognition](https://arxiv.org/abs/1910.04980), INFFUS 2020
 - [DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act Recognition and Sentiment Classification](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-QinL.5400.pdf), AAAI 2020
