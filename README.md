@@ -15,6 +15,8 @@ Please feel free to send a PR in case any new or existing paper is missing from 
 - [Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper)](https://www.aclweb.org/anthology/P19-1455.pdf), ACL 2019
 - [Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset](https://www.aclweb.org/anthology/2020.acl-main.459.pdf), ACL 2020
 - [ScenarioSA: A Dyadic Conversational Database for Interactive Sentiment Analysis](https://ieeexplore.ieee.org/iel7/6287639/8948470/09091843.pdf), IEEE Access 2020
+- [Emotionlines: An emotion corpus of multi-party conversations](https://www.aclweb.org/anthology/L18-1252.pdf), LREC 2018
+- [Understanding emotions in text using deep learning and big data](https://www.sciencedirect.com/science/article/pii/S0747563218306150), Computers in Human Behavior 2019
 
 ## ERC
 
