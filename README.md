@@ -16,6 +16,13 @@ Please feel free to send a PR in case any new or existing paper is missing from 
 
 ## ERC
 
+- [Quantum-Inspired Interactive Networks for Conversational Sentiment Analysis](https://oro.open.ac.uk/61755/1/QIN.pdf), IJCAI 2019
+- [Knowledge-enriched transformer for emotion detection in textual conversations](https://arxiv.org/pdf/1909.10681), EMNLP 2019
+- [Domain adversarial learning for emotion recognition](https://arxiv.org/pdf/1910.13807.pdf), Arxiv 2020
+- [A Self-Attentive Emotion Recognition Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9054762), ICASSP 2020
+- [Hierarchical Transformer Network for Utterance-Level Emotion Recognition](https://www.mdpi.com/2076-3417/10/13/4447/pdf), Applied Sciences 2020
+- [An interaction-aware attention network for speech emotion recognition in spoken dialogs](https://ieeexplore.ieee.org/document/8683293/), ICASSP 2019
+- [Higru: Hierarchical gated recurrent units for utterance-level emotion recognition](https://www.aclweb.org/anthology/N19-1037.pdf), NAACL 2019
 - [Exploring Perception Uncertainty for Emotion Recognition in Dyadic Conversation and Music Listening](https://link.springer.com/content/pdf/10.1007/s12559-019-09694-4.pdf), Springer 2020
 - [A Novel Semantic Approach for Intelligent Response Generation using Emotion Detection Incorporating NPMI Measure](https://www.sciencedirect.com/science/article/pii/S1877050920307869), Procedia Computer Science, 2020
 - [HGFM: A Hierarchical Grained and Feature Model for Acoustic Emotion Recognition](https://ieeexplore.ieee.org/document/9053039), ICASSP 2020
@@ -23,11 +30,14 @@ Please feel free to send a PR in case any new or existing paper is missing from 
 - [Multi-Task Learning Network for Emotion Recognition in Conversation](https://arxiv.org/pdf/2003.01478), AAAI 2020
 - [Adapted Dynamic Memory Network for Emotion Recognition in Conversation](https://ieeexplore.ieee.org/document/9128015/), IEEE Transaction on Affective Computing 2020
 - [Detecting Topic-Oriented Speaker Stance in Conversational Speech](https://researchmgt.monash.edu/ws/portalfiles/portal/289322527/289321078_oa.pdf), Interspeech 2019
+- [What a Dialogue! A Deep Neural Framework for Contextual Affect Detection](https://arxiv.org/pdf/2001.10169.pdf), ICNIP 2019
+- [An Effective Deep Learning Approach for Dialogue Emotion Recognition in Car-Hailing Platform](https://ieeexplore.ieee.org/abstract/document/9060306/), IEEE SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI 2019
 - [Different Contextual Window Sizes based RNNs for Multimodal Emotion Detection in Interactive Conversations](https://ieeexplore.ieee.org/abstract/document/9127905/), IEEE Access 2020
 - [Retrospective Loss: Looking Back to Improve Training of Deep Neural Networks](https://arxiv.org/pdf/2006.13593), KDD 2020
 - [A Quantum-like Multimodal Network Framework for Modeling Interaction Dynamics in Multiparty Conversational Sentiment Analysis](https://www.sciencedirect.com/science/article/pii/S1566253520302554?casa_token=hvT7DkxejAEAAAAA:1ulmt0sDPWNhhVpG2smXpseF6E_UVoK_IqlLH4Puohq6bNQcuFObP4Vy7GYYg_byr5Yttx1HO2zB), Information Fusion 2020
 - [Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network](https://arxiv.org/pdf/1911.09075.pdf), AAAI 2020
 - [LIRMM-advanse at SemEval-2019 Task 3: Attentive conversation modeling for emotion detection and classification](https://hal-lirmm.ccsd.cnrs.fr/lirmm-02145395/file/semeval2019-proceedings.pdf), Semeval 2019 Task 3
+- [ntuer at semeval-2019 task 3: Emotion classification with word and sentence representations in rcnn](https://arxiv.org/pdf/1902.07867.pdf), Semeval 2019 Task 3
 - [Coastal at semeval-2019 task 3: Affect classification in dialogue using attentive bilstms](https://www.aclweb.org/anthology/S19-2026.pdf), Semeval 2019 Task 3
 - [EPITA-ADAPT at SemEval-2019 Task 3: Detecting emotions in textual conversations using deep learning models combination](https://www.aclweb.org/anthology/S19-2035.pdf), Semeval 2019 Task 3.
 - [Modeling both Context-and Speaker-Sensitive Dependence for Emotion Detection in Multi-speaker Conversations](https://www.ijcai.org/Proceedings/2019/0752.pdf), IJCAI 2019
@@ -42,6 +52,7 @@ Please feel free to send a PR in case any new or existing paper is missing from 
 - [Multilogue-Net: A Context Aware RNN for Multi-modal Emotion Detection and Sentiment Analysis in Conversation](https://www.aclweb.org/anthology/2020.challengehml-1.3.pdf), HML Workshop, ACL 2020
 - [Conversational Transfer Learning for Emotion Recognition](https://arxiv.org/abs/1910.04980), INFFUS 2020
 - [DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act Recognition and Sentiment Classification](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-QinL.5400.pdf), AAAI 2020
+- [Attentional Neural Network for Emotion Detection in Conversations with Speaker Influence Awareness](http://tcci.ccf.org.cn/conference/2019_1007/papers/230.pdf), CCF International Conference on Natural Language Processing and Chinese Computing 2019
 - [Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations](https://www.aclweb.org/anthology/D19-1016.pdf), EMNLP 2019
 - [PT-CoDE: Pre-trained Context-Dependent Encoder for Utterance-level Emotion Recognition](https://arxiv.org/abs/1910.08916), Arxiv 2019
 - [EmotionX-IDEA: Emotion BERT – an Affectional Model for Conversation](https://arxiv.org/pdf/1908.06264.pdf), Arxiv 2019
