@@ -27,8 +27,8 @@ ERC is a task that aims at predicting emotion of each utterance in a conversatio
 - [Understanding emotions in text using deep learning and big data](https://www.sciencedirect.com/science/article/pii/S0747563218306150), Computers in Human Behavior 2019
 - [Emotionlines: An emotion corpus of multi-party conversations](https://www.aclweb.org/anthology/L18-1252.pdf), LREC 2018
 - [DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset](https://www.aclweb.org/anthology/I17-1099.pdf), AFNLP 2017
-- [SEMAINE Database](https://semaine-db.eu)
-- [IEMOCAP Database](https://sail.usc.edu/iemocap/)
+- [The semaine database: Annotated multimodal records of emotionally colored conversations between a person and a limited agent](https://semaine-db.eu), IEEE Transactions on Affective Computing 2012
+- [IEMOCAP: Interactive emotional dyadic motion capture database](https://sail.usc.edu/iemocap/), JLRE 2008
 
 ## ERC
 
