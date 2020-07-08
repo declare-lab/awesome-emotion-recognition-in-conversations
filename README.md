@@ -23,7 +23,6 @@ ERC is a task that aims at predicting emotion of each utterance in a conversatio
 - [Emotional Dialogue Acts](https://www.aclweb.org/anthology/2020.lrec-1.78.pdf), LREC 2020
 - [MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations](https://www.aclweb.org/anthology/P19-1050.pdf), ACL 2019
 - [MUStARD: Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper)](https://www.aclweb.org/anthology/P19-1455.pdf), ACL 2019
-- [Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper)](https://www.aclweb.org/anthology/P19-1455.pdf), ACL 2019
 - [Understanding emotions in text using deep learning and big data](https://www.sciencedirect.com/science/article/pii/S0747563218306150), Computers in Human Behavior 2019
 - [Emotionlines: An emotion corpus of multi-party conversations](https://www.aclweb.org/anthology/L18-1252.pdf), LREC 2018
 - [DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset](https://www.aclweb.org/anthology/I17-1099.pdf), AFNLP 2017
