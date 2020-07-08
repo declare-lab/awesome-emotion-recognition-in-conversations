@@ -5,7 +5,10 @@ Please feel free to send a PR in case any new or existing paper is missing from 
 ## What is ERC?
 
 ERC is a task that aims at predicting emotion of each utterance in a conversation. The following is an excerpt of a conversation with each utterance tagged with corresponding emotion and sentiment label:
-![A conversation with emotion-labelled utterances.](example.jpg)
+
+<p align="center">
+  <img width="800" src="example.jpg">
+</p>
 
 ## Overviews
 
