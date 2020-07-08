@@ -2,6 +2,11 @@
 A comprehensive reading list for papers related to Emotion Recognition in Conversations (ERC), contextual Sentiment/Affect Analysis, or joint classification of pragmatics such as Dialogue Acts in Conversations.
 Please feel free to send a PR in case any new or existing paper is missing from the list.
 
+## What is ERC?
+
+ERC is a task that aims at predicting emotion of each utterance in a conversation. The following is an excerpt of a conversation with each utterance tagged with corresponding emotion and sentiment label:
+![A conversation with emotion-labelled utterances.](example.jpg)
+
 ## Overviews
 
 - [Beneath the Tip of the Iceberg: Current Challenges and New Directions in Sentiment Analysis Research](https://arxiv.org/pdf/2005.00357.pdf), Arxiv 2020
