@@ -24,7 +24,6 @@ Please feel free to send a PR in case any new or existing paper is missing from 
 in Interactive Conversations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9127905), IEEE Access 2020 
 - [Quantum-Inspired DMATT-BiGRU for Conversational Sentiment Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8995180), ICTAI 2019
 - [Quantum-Inspired Interactive Networks for Conversational Sentiment Analysis](https://oro.open.ac.uk/61755/1/QIN.pdf), IJCAI 2019
-- [Knowledge-enriched transformer for emotion detection in textual conversations](https://arxiv.org/pdf/1909.10681), EMNLP 2019
 - [Domain adversarial learning for emotion recognition](https://arxiv.org/pdf/1910.13807.pdf), Arxiv 2020
 - [Towards Emotion-aided Multi-modal Dialogue Act Classification](https://www.aclweb.org/anthology/2020.acl-main.402.pdf), ACL 2020
 - [A Self-Attentive Emotion Recognition Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9054762), ICASSP 2020
