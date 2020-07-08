@@ -13,12 +13,16 @@ Please feel free to send a PR in case any new or existing paper is missing from 
 - [Emotional Dialogue Acts](https://www.aclweb.org/anthology/2020.lrec-1.78.pdf), LREC 2020
 - [MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations](https://www.aclweb.org/anthology/P19-1050.pdf), ACL 2019
 - [Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper)](https://www.aclweb.org/anthology/P19-1455.pdf), ACL 2019
+- [Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset](https://www.aclweb.org/anthology/2020.acl-main.459.pdf), ACL 2020
+- [ScenarioSA: A Dyadic Conversational Database for Interactive Sentiment Analysis](https://ieeexplore.ieee.org/iel7/6287639/8948470/09091843.pdf), IEEE Access 2020
 
 ## ERC
 
+- [Quantum-Inspired DMATT-BiGRU for Conversational Sentiment Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8995180), ICTAI 2019
 - [Quantum-Inspired Interactive Networks for Conversational Sentiment Analysis](https://oro.open.ac.uk/61755/1/QIN.pdf), IJCAI 2019
 - [Knowledge-enriched transformer for emotion detection in textual conversations](https://arxiv.org/pdf/1909.10681), EMNLP 2019
 - [Domain adversarial learning for emotion recognition](https://arxiv.org/pdf/1910.13807.pdf), Arxiv 2020
+- [Towards Emotion-aided Multi-modal Dialogue Act Classification](https://www.aclweb.org/anthology/2020.acl-main.402.pdf), ACL 2020
 - [A Self-Attentive Emotion Recognition Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9054762), ICASSP 2020
 - [Hierarchical Transformer Network for Utterance-Level Emotion Recognition](https://www.mdpi.com/2076-3417/10/13/4447/pdf), Applied Sciences 2020
 - [An interaction-aware attention network for speech emotion recognition in spoken dialogs](https://ieeexplore.ieee.org/document/8683293/), ICASSP 2019
@@ -30,6 +34,9 @@ Please feel free to send a PR in case any new or existing paper is missing from 
 - [Multi-Task Learning Network for Emotion Recognition in Conversation](https://arxiv.org/pdf/2003.01478), AAAI 2020
 - [Adapted Dynamic Memory Network for Emotion Recognition in Conversation](https://ieeexplore.ieee.org/document/9128015/), IEEE Transaction on Affective Computing 2020
 - [Detecting Topic-Oriented Speaker Stance in Conversational Speech](https://researchmgt.monash.edu/ws/portalfiles/portal/289322527/289321078_oa.pdf), Interspeech 2019
+- [Contextualized Emotion Recognition in Conversation as Sequence Tagging](https://www.sigdial.org/files/workshops/conference21/pdf/2020.sigdial-1.23.pdf), SIGDIAL 2020
+- [Smile Intensity Detection in Multiparty Interaction using Deep Learning](http://www.cristinasegalin.com/research/papers/ACII19.pdf), ACII 2019
+- [Mutual Correlation Attentive Factors in Dyadic Fusion Networks for Speech Emotion Recognition](https://dl.acm.org/doi/pdf/10.1145/3343031.3351039), ACM MM 2019
 - [What a Dialogue! A Deep Neural Framework for Contextual Affect Detection](https://arxiv.org/pdf/2001.10169.pdf), ICNIP 2019
 - [An Effective Deep Learning Approach for Dialogue Emotion Recognition in Car-Hailing Platform](https://ieeexplore.ieee.org/abstract/document/9060306/), IEEE SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI 2019
 - [Different Contextual Window Sizes based RNNs for Multimodal Emotion Detection in Interactive Conversations](https://ieeexplore.ieee.org/abstract/document/9127905/), IEEE Access 2020
