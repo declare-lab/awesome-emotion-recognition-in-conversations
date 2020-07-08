@@ -22,6 +22,7 @@ ERC is a task that aims at predicting emotion of each utterance in a conversatio
 - [K-EmoCon, a multimodal sensor dataset for continuous emotion recognition in naturalistic conversations](https://arxiv.org/pdf/2005.04120.pdf), Arxiv 2020
 - [Emotional Dialogue Acts](https://www.aclweb.org/anthology/2020.lrec-1.78.pdf), LREC 2020
 - [MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations](https://www.aclweb.org/anthology/P19-1050.pdf), ACL 2019
+- [MUStARD: Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper)](https://www.aclweb.org/anthology/P19-1455.pdf), ACL 2019
 - [Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper)](https://www.aclweb.org/anthology/P19-1455.pdf), ACL 2019
 - [Understanding emotions in text using deep learning and big data](https://www.sciencedirect.com/science/article/pii/S0747563218306150), Computers in Human Behavior 2019
 - [Emotionlines: An emotion corpus of multi-party conversations](https://www.aclweb.org/anthology/L18-1252.pdf), LREC 2018
@@ -88,6 +89,17 @@ in Interactive Conversations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&ar
 
 ## Contexutal Sarcasm Analysis
 
+- [Sarcasm Detection Using an Ensemble Approach](https://www.aclweb.org/anthology/2020.figlang-1.36.pdf), FigLang, ACL 2020
+- [Sarcasm Detection using Context Separators in Online Discourse](https://www.aclweb.org/anthology/2020.figlang-1.6.pdf), FigLang, ACL 2020
+- [C-Net: Contextual Network for Sarcasm Detection](https://www.aclweb.org/anthology/2020.figlang-1.8.pdf), FigLang, ACL 2020
+- [Sarcasm Identification and Detection in Conversion Context using BERT](https://www.aclweb.org/anthology/2020.figlang-1.10.pdf), FigLang, ACL 2020
+- [Applying Transformers and Aspect-based Sentiment Analysis approaches on Sarcasm Detection](https://www.aclweb.org/anthology/2020.figlang-1.9.pdf), FigLang, ACL 2020
+- [Neural Sarcasm Detection using Conversation Context](https://www.aclweb.org/anthology/2020.figlang-1.11.pdf), FigLang, ACL 2020
+- [Context-Aware Sarcasm Detection Using BERT](https://www.aclweb.org/anthology/2020.figlang-1.12.pdf), FigLang, ACL 2020
+- [Transformers on Sarcasm Detection with Context](https://www.aclweb.org/anthology/2020.figlang-1.13.pdf), FigLang, ACL 2020
+- [A Novel Hierarchical BERT Architecture for Sarcasm Detection](https://www.aclweb.org/anthology/2020.figlang-1.14.pdf), FigLang, ACL 2020
+- [Detecting Sarcasm in Conversation Context Using Transformer-Based Models](https://www.aclweb.org/anthology/2020.figlang-1.15.pdf), FigLang, ACL 2020
+- [MUStARD: Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper)](https://www.aclweb.org/anthology/P19-1455.pdf), ACL 2019
 
 ## Others
 
