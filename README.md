@@ -112,4 +112,5 @@ in Interactive Conversations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&ar
 - [Second Grand-Challenge and Workshop on Multimodal Language (Challenge-HML)](https://www.aclweb.org/anthology/volumes/2020.challengehml-1/), ACL 2020
 - [The Second Workshop on Figurative Language Processing](https://sites.google.com/view/figlang2020/), ACL 2020
 - [EMOCONTEXT](https://www.humanizing-ai.com/emocontext.html), Semeval 2019
+- [EmotionX Challenge](https://sites.google.com/view/emotionx2019), IJCAI 2019
 
