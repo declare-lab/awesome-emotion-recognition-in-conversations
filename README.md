@@ -18,6 +18,10 @@ Please feel free to send a PR in case any new or existing paper is missing from 
 
 ## ERC
 
+- [Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network](https://arxiv.org/pdf/1911.09075.pdf), AAAI 2020
+- [Adapted Dynamic Memory Network for Emotion Recognition in Conversation](https://ieeexplore.ieee.org/abstract/document/9128015), IEEE Transactions on Affective Computing 2020
+- [Different Contextual Window Sizes Based RNNs for Multimodal Emotion Detection
+in Interactive Conversations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9127905), IEEE Access 2020 
 - [Quantum-Inspired DMATT-BiGRU for Conversational Sentiment Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8995180), ICTAI 2019
 - [Quantum-Inspired Interactive Networks for Conversational Sentiment Analysis](https://oro.open.ac.uk/61755/1/QIN.pdf), IJCAI 2019
 - [Knowledge-enriched transformer for emotion detection in textual conversations](https://arxiv.org/pdf/1909.10681), EMNLP 2019
