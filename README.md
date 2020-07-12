@@ -31,6 +31,7 @@ ERC is a task that aims at predicting emotion of each utterance in a conversatio
 
 ## ERC
 
+- [HAN-ReGRU: hierarchical attention network with residual gated recurrent unit for emotion recognition in conversation](https://link.springer.com/article/10.1007/s00521-020-05063-7), Neural Computing Applications 2020
 - [Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network](https://arxiv.org/pdf/1911.09075.pdf), AAAI 2020
 - [Adapted Dynamic Memory Network for Emotion Recognition in Conversation](https://ieeexplore.ieee.org/abstract/document/9128015), IEEE Transactions on Affective Computing 2020
 - [Different Contextual Window Sizes Based RNNs for Multimodal Emotion Detection
