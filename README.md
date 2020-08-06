@@ -44,7 +44,6 @@ in Interactive Conversations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&ar
 - [A Novel Semantic Approach for Intelligent Response Generation using Emotion Detection Incorporating NPMI Measure](https://www.sciencedirect.com/science/article/pii/S1877050920307869), Procedia Computer Science, 2020
 - [HGFM: A Hierarchical Grained and Feature Model for Acoustic Emotion Recognition](https://ieeexplore.ieee.org/document/9053039), ICASSP 2020
 - [A Dialogical Emotion Decoder for Speech Motion Recognition in Spoken Dialog](https://ieeexplore.ieee.org/document/9053561), ICASSP 2020
-- [Multi-Task Learning Network for Emotion Recognition in Conversation](https://arxiv.org/pdf/2003.01478), AAAI 2020
 - [Adapted Dynamic Memory Network for Emotion Recognition in Conversation](https://ieeexplore.ieee.org/document/9128015/), IEEE Transaction on Affective Computing 2020
 - [Contextualized Emotion Recognition in Conversation as Sequence Tagging](https://www.sigdial.org/files/workshops/conference21/pdf/2020.sigdial-1.23.pdf), SIGDIAL 2020
 - [Different Contextual Window Sizes based RNNs for Multimodal Emotion Detection in Interactive Conversations](https://ieeexplore.ieee.org/abstract/document/9127905/), IEEE Access 2020
