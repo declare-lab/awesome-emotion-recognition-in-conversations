@@ -1,9 +1,9 @@
 # awesome-emotion-recognition-in-conversations
 A comprehensive reading list for papers related to **Emotion Recognition in Conversations (ERC), contextual Sentiment/Affect/Sarcasm Analysis, or joint classification of pragmatics such as Dialogue Acts in Conversations**.
 
-<div class="text-white bg-red mb-2">
+<span style="color:red">
   Please feel free to send a PR in case any new or existing paper is missing from the list.
-</div>
+</span>
 
 ## What is ERC?
 
