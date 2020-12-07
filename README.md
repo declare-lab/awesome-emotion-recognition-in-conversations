@@ -13,7 +13,7 @@ ERC is a task that aims at predicting emotion of each utterance in a conversatio
 
 ## Overviews
 
-- [Beneath the Tip of the Iceberg: Current Challenges and New Directions in Sentiment Analysis Research](https://arxiv.org/pdf/2005.00357.pdf), Arxiv 2020
+- [Beneath the Tip of the Iceberg: Current Challenges and New Directions in Sentiment Analysis Research](https://ieeexplore.ieee.org/document/9260964), IEEE Transactions on Affective Computing 2020
 - [Emotion Recognition in Conversation: Research Challenges, Datasets, and Recent Advances](https://ieeexplore.ieee.org/document/8764449), IEEE Access 2019
 
 ## Data Resources
