@@ -18,6 +18,8 @@ ERC is a task that aims at predicting emotion of each utterance in a conversatio
 
 ## Data Resources
 
+- [MEISD: A Multimodal Multi-Label Emotion, Intensity and Sentiment Dialogue Dataset for Emotion Recognition and Sentiment Analysis in Conversations
+](https://www.aclweb.org/anthology/2020.coling-main.393.pdf), COLING 2020
 - [Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset](https://www.aclweb.org/anthology/2020.acl-main.459.pdf), ACL 2020
 - [ScenarioSA: A Dyadic Conversational Database for Interactive Sentiment Analysis](https://ieeexplore.ieee.org/iel7/6287639/8948470/09091843.pdf), IEEE Access 2020
 - [K-EmoCon, a multimodal sensor dataset for continuous emotion recognition in naturalistic conversations](https://arxiv.org/pdf/2005.04120.pdf), Arxiv 2020
@@ -32,6 +34,14 @@ ERC is a task that aims at predicting emotion of each utterance in a conversatio
 
 ## ERC
 
+- [Modeling both Intra- and Inter-modal Influence for Real-Time Emotion Detection in Conversations](https://dl.acm.org/doi/pdf/10.1145/3394171.3413949?casa_token=CgDjp2hokAEAAAAA:W-GCXBkMztp74bOyjSDQQM0dmeNOU-XKhN336SmJBT_rbhX0PAv5JGSVq_0yD8LU3DNb7uyqPoQk), ACM MM 2020 
+- [CAN-GRU: a Hierarchical Model for Emotion Recognition in Dialogue](https://www.aclweb.org/anthology/2020.ccl-1.102.pdf), COLING 2020
+- [DialogueTRM: Exploring the Intra- and Inter-Modal Emotional Behaviors in the Conversation](https://arxiv.org/pdf/2010.07637.pdf), Arxiv 2020
+- [Knowledge Aware Emotion Recognition in Textual Conversations via Multi-Task Incremental Transformer](https://www.aclweb.org/anthology/2020.coling-main.392.pdf), COLING 2020
+- [Summarize before Aggregate: A Global-to-local Heterogeneous Graph Inference Network for Conversational Emotion Recognition](https://www.aclweb.org/anthology/2020.coling-main.367.pdf), COLING 2020
+- [An Iterative Emotion Interaction Network for Emotion Recognition in Conversations](https://www.aclweb.org/anthology/2020.coling-main.360.pdf), COLING 2020
+- [HiTrans: A Transformer-Based Context- and Speaker-Sensitive Model for Emotion Detection in Conversations](https://www.aclweb.org/anthology/2020.coling-main.370.pdf), COLING 2020
+- [Relation-aware Graph Attention Networks with Relational Position Encodings for Emotion Recognition in Conversations], EMNLP 2020
 - [HAN-ReGRU: hierarchical attention network with residual gated recurrent unit for emotion recognition in conversation](https://link.springer.com/article/10.1007/s00521-020-05063-7), Neural Computing Applications 2020
 - [Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network](https://arxiv.org/pdf/1911.09075.pdf), AAAI 2020
 - [Adapted Dynamic Memory Network for Emotion Recognition in Conversation](https://ieeexplore.ieee.org/abstract/document/9128015), IEEE Transactions on Affective Computing 2020
@@ -81,6 +91,7 @@ in Interactive Conversations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&ar
 
 ## Contextual Sentiment Analysis
 
+- [Sentiment Forecasting in Dialog](https://www.aclweb.org/anthology/2020.coling-main.221.pdf), COLING 2020
 - [DCR-Net: A Deep Co-Interactive Relation Network for Joint Dialog Act Recognition and Sentiment Classification](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-QinL.5400.pdf), AAAI 2020
 - [A Quantum-like Multimodal Network Framework for Modeling Interaction Dynamics in Multiparty Conversational Sentiment Analysis](https://www.sciencedirect.com/science/article/pii/S1566253520302554?casa_token=hvT7DkxejAEAAAAA:1ulmt0sDPWNhhVpG2smXpseF6E_UVoK_IqlLH4Puohq6bNQcuFObP4Vy7GYYg_byr5Yttx1HO2zB), Information Fusion 2020
 - [Quantum-Inspired Interactive Networks for Conversational Sentiment Analysis](https://oro.open.ac.uk/61755/1/QIN.pdf), IJCAI 2019
@@ -89,6 +100,7 @@ in Interactive Conversations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&ar
 
 ## Contexutal Sarcasm Analysis
 
+- [Reactive Supervision: A New Method for Collecting Sarcasm Data](https://www.aclweb.org/anthology/2020.emnlp-main.201.pdf), EMNLP 2020
 - [Sarcasm Detection Using an Ensemble Approach](https://www.aclweb.org/anthology/2020.figlang-1.36.pdf), FigLang, ACL 2020
 - [Sarcasm Detection using Context Separators in Online Discourse](https://www.aclweb.org/anthology/2020.figlang-1.6.pdf), FigLang, ACL 2020
 - [C-Net: Contextual Network for Sarcasm Detection](https://www.aclweb.org/anthology/2020.figlang-1.8.pdf), FigLang, ACL 2020
