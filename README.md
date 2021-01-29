@@ -35,6 +35,7 @@ ERC is a task that aims at predicting emotion of each utterance in a conversatio
 ## ERC
 
 - [Modeling both Intra- and Inter-modal Influence for Real-Time Emotion Detection in Conversations](https://dl.acm.org/doi/pdf/10.1145/3394171.3413949?casa_token=CgDjp2hokAEAAAAA:W-GCXBkMztp74bOyjSDQQM0dmeNOU-XKhN336SmJBT_rbhX0PAv5JGSVq_0yD8LU3DNb7uyqPoQk), ACM MM 2020 
+- [Contextual Augmentation of Pretrained Language Models for Emotion Recognition in Conversations](https://www.aclweb.org/anthology/2020.peoples-1.7.pdf), COLING 2020
 - [CAN-GRU: a Hierarchical Model for Emotion Recognition in Dialogue](https://www.aclweb.org/anthology/2020.ccl-1.102.pdf), COLING 2020
 - [DialogueTRM: Exploring the Intra- and Inter-Modal Emotional Behaviors in the Conversation](https://arxiv.org/pdf/2010.07637.pdf), Arxiv 2020
 - [Knowledge Aware Emotion Recognition in Textual Conversations via Multi-Task Incremental Transformer](https://www.aclweb.org/anthology/2020.coling-main.392.pdf), COLING 2020
