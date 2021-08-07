@@ -60,7 +60,6 @@ in Interactive Conversations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&ar
 - [Contextualized Emotion Recognition in Conversation as Sequence Tagging](https://www.sigdial.org/files/workshops/conference21/pdf/2020.sigdial-1.23.pdf), SIGDIAL 2020
 - [Different Contextual Window Sizes based RNNs for Multimodal Emotion Detection in Interactive Conversations](https://ieeexplore.ieee.org/abstract/document/9127905/), IEEE Access 2020
 - [Retrospective Loss: Looking Back to Improve Training of Deep Neural Networks](https://arxiv.org/pdf/2006.13593), KDD 2020
-- [Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network](https://arxiv.org/pdf/1911.09075.pdf), AAAI 2020
 - [Attention-based modeling for emotion detection and classification in textual conversations](https://arxiv.org/pdf/1906.07020), Arxiv 2020
 - [BiERU: Bidirectional Emotional Recurrent Unit for Conversational Sentiment Analysis](https://arxiv.org/pdf/2006.00492.pdf), Arxiv 2020
 - [Multi-Task Learning with Auxiliary Speaker Identification for Conversational Emotion Recognition](https://arxiv.org/pdf/2003.01478.pdf), Arxiv 2020
