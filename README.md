@@ -13,6 +13,7 @@ ERC is a task that aims at predicting emotion of each utterance in a conversatio
 
 ## Overviews
 
+- [Deep Emotion Recognition in Textual Conversations: A Survey](https://arxiv.org/pdf/2211.09172.pdf), ArXiv 2022
 - [Beneath the Tip of the Iceberg: Current Challenges and New Directions in Sentiment Analysis Research](https://ieeexplore.ieee.org/document/9260964), IEEE Transactions on Affective Computing 2020
 - [Emotion Recognition in Conversation: Research Challenges, Datasets, and Recent Advances](https://ieeexplore.ieee.org/document/8764449), IEEE Access 2019
 
@@ -33,6 +34,8 @@ ERC is a task that aims at predicting emotion of each utterance in a conversatio
 - [IEMOCAP: Interactive emotional dyadic motion capture database](https://sail.usc.edu/iemocap/), JLRE 2008
 
 ## ERC
+- [Context-Dependent Embedding Utterance Representations for Emotion Recognition in Conversations](https://aclanthology.org/2023.wassa-1.21.pdf), Workshop on Computational Approaches to Subjectivity, Sentiment, & Social Media Analysis, ACL 2023
+- [Fuzzy Fingerprinting Transformer Language-Models for Emotion Recognition in Conversations](https://arxiv.org/pdf/2309.04292.pdf), FUZZ-IEEE 2023
 - [DialogueCRN: Contextual Reasoning Networks for Emotion Recognition in Conversations](https://aclanthology.org/2021.acl-long.547.pdf), ACL 2021
 - [MMGCN: Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation](https://aclanthology.org/2021.acl-long.440.pdf), ACL 2021
 - [Directed Acyclic Graph Network for Conversational Emotion Recognition](https://aclanthology.org/2021.acl-long.123.pdf), ACL 2021
